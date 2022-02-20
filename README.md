@@ -4,7 +4,7 @@
 
 #### created by cedrik31tlse#8672 (Discord) / cedrik31tlse (Telegram)
 
-Tutorial to create a node on Avalanche network (FTM) to use with Coyote Chainsniper Linux Edition.
+Tutorial to create a node on Avalanche network (AVAX) to use with Coyote Chainsniper Linux Edition.
 
 Link to official server of Coyote bots : https://discord.gg/fP3Z4tY92j
 
