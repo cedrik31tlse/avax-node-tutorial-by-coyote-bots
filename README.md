@@ -88,3 +88,11 @@ systemctl start avax
 ```
 journalctl -u avax
 ```
+
+12. Use the node with Coyote Chainsniper 
+
+```
+In config.json : 
+HTTP node : http://127.0.0.1:9650/ext/bc/C/rpc
+WS node (only if you have validator node , required 200k$ in AVAX) : ws://127.0.0.1:9650/ext/bc/C/ws
+```
