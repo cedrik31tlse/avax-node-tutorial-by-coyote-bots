@@ -107,7 +107,7 @@ systemctl start avax
 11. Check logs
 
 ```
-journalctl -u avax
+journalctl -u avax -f
 ```
 
 12. Use the node with Coyote Chainsniper 
